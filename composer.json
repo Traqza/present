@@ -1,10 +1,10 @@
 {
-    "name": "traqza/presentable",
+    "name": "traqza/presen",
     "description": "Create presenters for Eloquent Models",
     "keywords": [
         "presentable"
     ],
-    "homepage": "https://github.com/Traqza/presentable",
+    "homepage": "https://github.com/Traqza/present",
     "license": "MIT",
     "type": "library",
     "require": {
