@@ -1,5 +1,5 @@
 {
-    "name": "traqza/presen",
+    "name": "traqza/present",
     "description": "Create presenters for Eloquent Models",
     "keywords": [
         "presentable"
