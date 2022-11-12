@@ -11,7 +11,7 @@ class PresentableCommand extends GeneratorCommand
      *
      * @var string
      */
-    protected $name = 'make:presenter';
+    protected $name = 'traqza make:presenter';
 
     /**
      * The console command description.
