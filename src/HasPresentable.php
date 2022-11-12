@@ -23,7 +23,7 @@ trait HasPresentable
     public function present()
     {
         if (! $this->presenter) {
-            throw new Exception('Please set the $presenter property to your presenter path.');
+            throw new Exception('You must set protected mixed $presenter = ModelPresenter::class; property within your model.');
         }
 
         if (! class_exists($this->presenter)) {
