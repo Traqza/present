@@ -1,10 +1,10 @@
 <?php
 
-namespace DummyNamespace;
+namespace App\Models\Presenters\DummyNamespace;
 
-use TheHiveTeam\Presentable\Presenter;
+use App\Models\Presenters\GlobalPresenter;
 
-class DummyClass extends Presenter
+class DummyClass extends GlobalPresenter
 {
     /**
      * This is a example.
